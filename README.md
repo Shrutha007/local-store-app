@@ -71,4 +71,19 @@ Understand how e-commerce platforms work behind the scenes, including product li
 Create a simple and clean project to showcase in my portfolio and GitHub profile.
 Prepare for internships and job interviews by strengthening my React and Node.js fundamentals.
 
+✅ Why These Packages?
+React: Core frontend UI library.
+
+React Router: To create navigation between pages like Home, Cart.
+
+Axios: Makes it easier to send HTTP requests to the backend API.
+
+Express: Simplifies handling server routes and middleware.
+
+Cors: Allows frontend running on one port (3000) to access backend running on another (5000).
+
+Body-parser: Makes reading incoming request data easier.
+
+Nodemon: Saves time by auto-restarting your server during development.
+
 
