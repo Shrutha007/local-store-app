@@ -1,0 +1,63 @@
+✅ What Is npm?
+npm stands for Node Package Manager.
+
+It is:
+
+A tool that helps you install, manage, and share packages (libraries or modules) for JavaScript projects.
+
+The default package manager for Node.js.
+
+If you're building a Node.js backend or React frontend, you’re already using npm.
+
+✅ What Does npm Do?
+Installs Packages/Libraries:
+
+Example:
+
+npm install express
+npm install react
+Manages Dependencies:
+
+All installed packages and their versions get recorded in a file called package.json.
+
+You don’t have to manually track everything.
+
+Runs Project Scripts:
+
+Defined in package.json.
+
+Example:
+
+npm start
+npm run build
+Shares Your Project:
+
+You can publish your own npm packages.
+
+✅ Files Involved:
+package.json:
+Stores project name, version, dependencies, and scripts.
+
+package-lock.json:
+Ensures that the exact version of every installed package is recorded and used.
+
+node_modules/:
+Directory where npm installs all your packages locally.
+
+✅ Common npm Commands
+Command	Purpose
+npm install	Install all dependencies listed in package.json
+npm install <package>	Install a specific package
+npm start	Run the start script defined in package.json
+npm run <script>	Run any custom script defined in package.json
+npm uninstall <package>	Remove a package
+npm update	Update all installed packages
+
+✅ Why npm Matters for You
+Since you're building projects like Local Store App with:
+
+Frontend: React
+
+Backend: Node.js + Express
+
+npm helps you manage all required packages without manually downloading and linking files.
